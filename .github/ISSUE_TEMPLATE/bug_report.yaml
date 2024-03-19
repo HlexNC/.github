@@ -13,7 +13,6 @@ body:
       label: What Happened?
       description: A clear and concise description of what the bug is.
       placeholder: Tell us what you see...
-      value: ""
     validations:
       required: true
   - type: textarea
